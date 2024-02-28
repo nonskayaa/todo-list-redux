@@ -1,0 +1,17 @@
+.todo_list__clear_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background: #1860fc;
+  color: white;
+  padding: 15px 0px;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.todo_list__emoji {
+  width: 45px;
+  height: 45px;
+  margin-left: 10px;
+}

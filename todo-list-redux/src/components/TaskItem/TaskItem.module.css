@@ -1,0 +1,24 @@
+.task_list__item {
+  padding: 20px 10px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 30px;
+}
+
+
+.task__left_side {
+  display: flex;
+  align-items: center;
+}
+
+.task__title {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.task__title__done {
+  text-decoration: line-through;
+  color: grey;
+}
+

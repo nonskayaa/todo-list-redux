@@ -1,0 +1,15 @@
+.btn_check {
+  background: none;
+  background-image: url("../../../assets/images/unchecked.png");
+  background-size: 40px 40px;
+  display: inline-block;
+  min-width: 40px;
+  min-height: 40px;
+  margin-right: 10px;
+  content: "";
+  cursor: pointer;
+}
+
+.btn_check__done {
+  background-image: url("../../../assets/images/checked.png");
+}

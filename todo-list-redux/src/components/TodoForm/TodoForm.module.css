@@ -1,0 +1,30 @@
+.todo_list__form {
+  width: 80%;
+}
+
+.todo_list__input_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #edeef0;
+  border-radius: 30px;
+  padding-left: 20px;
+}
+
+.todo_list__input_box {
+  padding: 20px 0px;
+}
+
+.todo_list__input_box::placeholder {
+  font-size: 20px;
+  font-weight: 300;
+  font-family: "SFProText";
+}
+
+.todo_list__btn {
+  width: 25%;
+  padding: 20px 0px;
+  background: #ff5844;
+  color: white;
+  cursor: pointer;
+}
